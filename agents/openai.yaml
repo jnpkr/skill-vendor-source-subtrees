@@ -1,0 +1,4 @@
+interface:
+  display_name: "Vendor Source Subtrees"
+  short_description: "Make dependencies explorable for agents"
+  default_prompt: "Use $vendor-source-subtrees to vendor an external repository for agent reference and configure editor exclusions."
